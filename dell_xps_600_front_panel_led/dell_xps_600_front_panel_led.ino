@@ -22,9 +22,6 @@
  */
 
 #include <EEPROM.h>
-#include <stdbool.h>
-
-int DEBUG = false;
 
 /**
  * Hardware Constants
